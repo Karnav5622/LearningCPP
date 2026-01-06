@@ -27,11 +27,13 @@ double addVariables(int a, float b, long c) {
     sum=a+b+c;
     cout<<sum;
     
+    
 }
 int main(){
     int x;
     float y;
     long z;
+
     cin >> x>>y>>z;
     addVariables(x,y,z);
 }

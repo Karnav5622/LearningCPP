@@ -26,11 +26,4 @@ using namespace std;
 //     return 0;
 // }
 //CODE 3
-int x=10;
-int main()
-{
-    int x=30;
-    cout<<"show  "<<x;//Precendece will be given to local variable called variable shadowing
-    return 0;
-}
 

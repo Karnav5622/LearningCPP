@@ -8,5 +8,4 @@ int main()
     cout<<(int)b<<endl;
     sum=a+b;
     cout<<sum;
-    return 0;
 }
