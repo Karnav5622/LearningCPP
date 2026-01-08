@@ -34,20 +34,47 @@ using namespace std;
 //     cout<<n%10;
 //     return 0;
 // }
+// int main()
+// {
+//     int n,fact;
+//     cout<<"Enter a number"<<endl;
+//     cin>>n;
+//     fact=1;
+//     if(n<0) return 0;
+//     for(int i=1; i<=n;i++){
+//         fact= fact*i;
+//     }
+    
+//     cout<<fact;
+    
+// }
+// int main()
+// {
+//     int n;
+//     if(n>=1&&n<=10000){
+//         if(n%2==0){
+//             cout<<"true";
+//         }
+//         else{
+//             cout<<"false";
+//         }
+//     }
+//     return 0;
+// }
 int main()
 {
-    int n,fact;
-    cout<<"Enter a number"<<endl;
-    cin>>n;
-    fact=1;
-    if(n<0) return 0;
-    for(int i=1; i<=n;i++){
-        fact= fact*i;
+    int sum=0;
+    int n;
+    cout<<"Enter number";
+    cin>> n;
+    for(int i=0; i<=n; i++){
+        sum=sum+i;
     }
-    
-    cout<<fact;
-    
+    cout<<sum;
+    return 0;
 }
+
+
 
 
 
