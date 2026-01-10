@@ -9,6 +9,8 @@
 //     return 0;
 // }
 #include <iostream>
+// numbers using in-built max()
+#include <bits/stdc++.h>
 #include<cmath>
 using namespace std;
 
@@ -73,24 +75,52 @@ using namespace std;
 //     cout<<sum;
 //     return 0;
 // }
-#include <iostream>
-using namespace std;
+// #include <iostream>
+// using namespace std;
+
+// int main() {
+//     // code here
+//     int n;
+//     cin>>n;
+//     if(n>100){
+//         cout<<"Big"<<endl;
+//         cout<<"Number";
+//     }
+//     else{
+//         cout<<"Number";
+//     }
+
+//     return 0;
+// }
+//Largest Number using MAX
+
+// int main()
+// {
+//     int a,b,c;
+//     cout<<"Enter Number 1"<<endl;
+//     cin>>a;
+//     cout<<"Enter Number 2"<<endl;
+//     cin>>b;
+//     cout<<"Enter Number 3"<<endl;
+//     cin>>c;
+//     cout<< max({a,b,c});
+    
+//     return 
 
 int main() {
-    // code here
-    int n;
-    cin>>n;
-    if(n>100){
-        cout<<"Big"<<endl;
-        cout<<"Number";
+    int a = 10;
+    if (a = 15) 
+    {
+        time;
+        cout << a;
+        if (n == 3) 
+        goto time;
     }
-    else{
-        cout<<"Number";
-    }
+    break;
+
 
     return 0;
 }
-
 
 
 

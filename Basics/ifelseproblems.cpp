@@ -14,22 +14,4 @@ using namespace std;
     
 //     return 0;
 // }
-int main(){
-    int a,b,c;
-    cout<<"ENTER 3 NUMBERS"<<endl;
-    cin>>a>>b>>c;
-    if (a>b&&a>c)
-    {
-        cout<<"a is largest";
-    }
-    else if(b>a&&b>c){
-        cout<<"b is largest";
-    }
-    else if(c>a&&c>b){
-        cout<<"c is largest";
-    }
-    else if(a==b&&b==c){
-        cout<<"All are equal";
-    }
 
-}

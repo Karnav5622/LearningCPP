@@ -45,7 +45,7 @@ This repository contains fundamental C++ concepts and basic practice programs th
 ## Flow Control
 - If else Statements
 - Else if Statements
-- C++ Logical Operator
+- Nested If else Statements
 - Assignment, Operator Precedence
 - Bitwise Operator in C++
 
