@@ -74,6 +74,15 @@ This repository contains fundamental C++ concepts and basic practice programs th
 - Problem Solving 
 
 ---
+### January 13 ,2026
+## Array 
+- Array Declaration and Initalisation
+- Array traversing
+- 
+- 
+- 
+
+---
 
 ## 🎯 Purpose
 - To build strong fundamentals in C++
