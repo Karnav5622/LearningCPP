@@ -78,8 +78,26 @@ This repository contains fundamental C++ concepts and basic practice programs th
 ## Array 
 - Array Declaration and Initalisation
 - Array traversing
-- 
-- 
+- Problem Solving
+
+---
+
+### January 14 ,2026
+## Array 
+- Problem Solving
+
+---
+
+### January 15 ,2026
+## Array 
+- Revision 
+- Problem Solving 
+
+---
+
+### January 16 ,2026
+## Array 
+- Problem Solving 
 - 
 
 ---
