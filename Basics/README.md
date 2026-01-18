@@ -109,6 +109,15 @@ This repository contains fundamental C++ concepts and basic practice programs th
 
 ---
 
+### January 18 ,2026
+## Array 
+- RangeBased Loops & References
+- Pointers
+- Application of Pointers
+- Function Parameters and Pointers
+
+---
+
 ## 🎯 Purpose
 - To build strong fundamentals in C++
 - To practice syntax and basic logic
